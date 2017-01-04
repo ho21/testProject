@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@mipmap/start" />
+    <!--<item>-->
+        <!--<bitmap android:src="@android:drawable/presence_audio_busy" android:gravity="fill_vertical"/>-->
+    <!--</item>-->
+</layer-list>
